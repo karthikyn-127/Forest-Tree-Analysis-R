@@ -1,5 +1,5 @@
 
-setwd("C:/Users/raja aarthi/Desktop/Forest_Tree_R_Project")
+setwd("C:/Users/karthi/Desktop/Forest_Tree_R_Project")
 
 getwd()
 list.files()
